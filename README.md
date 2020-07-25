@@ -1,17 +1,17 @@
 
-# LoadingBar.sh
+# progressbar.sh
 
 > Progress bar in bash by Adriano Pinaffo.
 This progressbar will fill all the columns of the terminal window.
 
 ### Preview
-![LoadingBar.sh in action on terminal](./LoadingBar.gif)
+![LoadingBar.sh in action on terminal](https://raw.githubusercontent.com/AkroutiHamza/LoadingBar/master/progressbar.gif)
 
 ### Usage:
-        ./LoadingBar.sh [SECONDS] 
+        ./progressbar.sh [SECONDS] 
 
 ### Example for 10 seconds:
-        ./LoadingBar.sh 10
+        ./progressbar.sh 10
 
 ### Acknowledgement
 This script was inspired on the work by Edouard Lopez https://github.com/edouard-lopez/progress-bar.sh)
