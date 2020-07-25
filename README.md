@@ -1,7 +1,7 @@
 
 # progressbar.sh
 
-> Progress bar in bash by Adriano Pinaffo.
+> Progress bar in bash by AKroutiHamza.
 This progressbar will fill all the columns of the terminal window.
 
 ### Preview
